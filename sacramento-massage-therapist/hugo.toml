@@ -1,0 +1,33 @@
+baseURL = 'https://paulbrown.net/'
+languageCode = 'en-us'
+title = 'Sacramento Massage Therapist | Paul Brown'
+theme= 'hugo-theme-coder'
+description = 'Paul Brown is a Sacramento-based massage therapist specializing in deep tissue, sports, and therapeutic massage. Book your appointment today!'
+author = 'Paul Brown'
+[params]
+  logo = 'https://paulbrown.net/images/logo.png'
+  favicon = 'https://paulbrown.net/images/favicon.ico'
+  keywords = ['Sacramento', 'Massage Therapist', 'Deep Tissue', 'Sports Massage', 'Therapeutic Massage']
+  social = [
+    { name = 'facebook', url = 'https://www.facebook.com/paulbrownmassage' },
+    { name = 'twitter', url = 'https://twitter.com/paulbrownmassage' },
+    { name = 'instagram', url = 'https://www.instagram.com/paulbrownmassage' }
+  ]
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 2
+  [[menu.main]]
+    name = 'Services'
+    url = '/services/'
+    weight = 3
+  [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 4
+
