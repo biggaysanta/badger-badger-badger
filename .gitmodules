@@ -1,0 +1,6 @@
+[submodule "sacramento-massage-therapist/themes/themes/FixIt"]
+	path = sacramento-massage-therapist/themes/themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
+[submodule "sacramento-massage-therapist/themes/FixIt"]
+	path = sacramento-massage-therapist/themes/FixIt
+	url = https://github.com/hugo-fixit/FixIt.git
